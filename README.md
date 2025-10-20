@@ -25,7 +25,7 @@ I am Navya, MCA student. I created this portfolio to demonstrate my web developm
 - *Clone Repository:*  
 ```bash
 git clone https://github.com/VudayagiriNavya/portfolio-project.git
-
+```
 ## Contact
 Email: vudayagirinavya9458@gmail.com
 GitHub: https://github.com/VudayagiriNavya
