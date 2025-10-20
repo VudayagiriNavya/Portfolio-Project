@@ -21,7 +21,7 @@ I am Navya, MCA student. I created this portfolio to demonstrate my web developm
 3. *To-Do-List Project* - Created website of To-Do-List.
 
 ## How to View
-- *Live Demo:* [My Portfolio](https://VudayagiriNavya.github.io/portfolio-project/)  
+- *Live Demo:* [My Portfolio](https://VudayagiriNavya.github.io/Portfolio-Project/)  
 - *Clone Repository:*  
 ```bash
 git clone https://github.com/VudayagiriNavya/portfolio-project.git
