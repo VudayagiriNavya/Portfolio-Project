@@ -28,7 +28,7 @@ git clone https://github.com/VudayagiriNavya/portfolio-project.git
 ```
 ## Contact
 Email: vudayagirinavya9458@gmail.com
-GitHub: https://github.com/VudayagiriNavya
+  GitHub: https://github.com/VudayagiriNavya
 
 > Feel free to explore the code and live demo. Feedback is always welcome! 🌸
 
